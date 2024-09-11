@@ -24,7 +24,7 @@ function sacar($conta, float $valorASacar) : array
 }
 
 function exibeUmaMensagem($mensagem)
- { 
+{ 
     echo $mensagem . '<br>';
 }
 
